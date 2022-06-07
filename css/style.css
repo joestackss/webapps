@@ -1,0 +1,96 @@
+
+
+
+
+
+body {
+    font-family: "Poppins";
+
+}
+
+.hero-bkg {
+    min-height: 600px;
+    background-image: url("https://pbs.twimg.com/media/EVAAXOQXQAID0N9?format=jpg&name=medium");
+    background-size: cover;
+
+}
+
+.header-section {
+    padding: 0 0;
+
+}
+
+/* Containers */
+
+.container-fluid {
+    padding: 1% 7%;
+
+}
+
+/* button */
+
+.download-button {
+    margin: 5% 13% 5% 13;
+}
+
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0.5rem 0 1.0rem;
+    background: transparent;
+}
+
+.navbar-brand {
+    font-family: "Poppins";
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding: 0 17px;
+}
+
+.nav-link {
+    font-size: 1.0rem;
+    font-family: "Poppins";
+}
+
+/* Headings */
+
+.big-heading {
+    color: #fff;
+    text-align: center;
+    padding: 10% 0 0 0;
+
+}
+
+p {
+    color: #fff;
+    text-align: center;
+    padding: 2% 0 4% 0;
+}
+
+.section-headinng {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+@media (max-width:573px) {
+    .big-heading {
+        color: #fff;
+        text-align: center;
+        padding: 30% 0 0 0;
+
+    }
+
+    p {
+        color: #fff;
+        text-align: center;
+        padding: 3% 0 7% 0;
+    }
+
+    .download-button {
+        margin :1% 20%;
+    }
+}
