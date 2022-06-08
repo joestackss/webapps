@@ -3,6 +3,10 @@ body {
 
 }
 
+h3 {
+  font-weight: 700;
+}
+
 .form-control-dark {
     border-color: inherit;
 }
@@ -119,7 +123,7 @@ p {
 /* Sections */
 
 .colored-section {
-    background-color: #ff4c68;
+    background-color: #032030;
     color: #fff;
 }
 
@@ -144,12 +148,12 @@ p {
 }
 
 .icon {
-    color: #ef8172;
+    color: #032030;
     margin-bottom: 1rem;
 }
 
 .icon:hover {
-    color: #ff4c68;
+    color: #011c2b;
 }
 
 @media (max-width:573px) {
