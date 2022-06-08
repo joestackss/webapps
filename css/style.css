@@ -162,12 +162,9 @@ p {
 }
 
 .icon:hover {
-    color: #011c2b;
+    color: #254759;
 }
 
-.rowsin {
-
-}
 
 @media (max-width:573px) {
     .big-heading {
