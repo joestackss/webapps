@@ -125,7 +125,7 @@ p {
 /* Trade with us */
 .trade-us {
     text-align: center;
-    padding-bottom: 15%;
+    margin-bottom: 15%;
     font-weight: 900;
 }
 
@@ -163,6 +163,10 @@ p {
 
 .icon:hover {
     color: #011c2b;
+}
+
+.rowsin {
+
 }
 
 @media (max-width:573px) {
