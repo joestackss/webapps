@@ -168,10 +168,17 @@ p {
 
 
 @media (max-width:573px) {
+
+  .hero-bkg {
+      min-height: 620px;
+      background-image: url("https://pbs.twimg.com/media/EVAAXOQXQAID0N9?format=jpg&name=medium");
+      background-size: cover;
+
+  }
     .big-heading {
         color: #fff;
         text-align: center;
-        padding: 30% 0 0 0;
+        padding: 40% 0 0 0;
 
     }
 
