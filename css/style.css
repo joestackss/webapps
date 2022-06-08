@@ -170,7 +170,7 @@ p {
 @media (max-width:573px) {
 
   .hero-bkg {
-      min-height: 700px;
+      min-height: 720px;
       background-image: url("https://pbs.twimg.com/media/EVAAXOQXQAID0N9?format=jpg&name=medium");
       background-size: cover;
 
