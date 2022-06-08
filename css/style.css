@@ -71,6 +71,7 @@ h3 {
 .navbar {
     padding: 0.5rem 0 1.0rem;
     background: #032030;
+    position: fixed;
 }
 
 .navbar-brand {
@@ -157,12 +158,12 @@ p {
 }
 
 .icon {
-    color: #032030;
+    color: #254759;
     margin-bottom: 1rem;
 }
 
 .icon:hover {
-    color: #254759;
+    color: #032030;
 }
 
 
