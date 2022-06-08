@@ -25,7 +25,7 @@ h3 {
 }
 
 .hero-bkg {
-    min-height: 600px;
+    min-height: 800px;
     background-image: url("https://pbs.twimg.com/media/EVAAXOQXQAID0N9?format=jpg&name=medium");
     background-size: cover;
 
@@ -71,7 +71,6 @@ h3 {
 .navbar {
     padding: 0.5rem 0 1.0rem;
     background: #032030;
-    position: fixed;
 }
 
 .navbar-brand {
@@ -128,6 +127,7 @@ p {
     text-align: center;
     margin-bottom: 5%;
     font-weight: 900;
+    color: #254759;
 }
 
 /* Sections */
